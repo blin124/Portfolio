@@ -1,0 +1,20 @@
+h2, h3 {
+    color: white;
+}
+
+a {
+    font-size: 22px;
+    padding-left: 30px;
+}
+
+.fas {
+    padding-right: 30px;
+}
+
+.nav-nav {
+    background-color: cadetblue!important;
+}
+
+html {
+    height: 100%;
+}

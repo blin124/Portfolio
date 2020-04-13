@@ -18,10 +18,12 @@ h2, h3 {
 
 html {
     height: 100%;
+    background-color: white;
 }
 
 .row {
     height: 100%;
+    padding-top: 75px;
 
 }
 
@@ -30,8 +32,13 @@ html {
     padding: 30px 50px;
 }
 
-.carousel-buttons {
-    color: cyan;
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: cadetblue!important;
+}
+
+.portraits {
+    width: 35% !important;
 }
 
 .d-block {
@@ -47,6 +54,11 @@ html {
     border-color: rgb(107, 233, 233) !important;
 }
 
+img {
+    width: 413px;
+    height: 20%;
+}
+
 @media (min-width: 576px) {
 #table-list {
     max-width: 20% !important;
@@ -55,7 +67,7 @@ html {
 
 #table-content {
     max-width: 60% !important;
-    margin-bottom: 100px;
+    margin-bottom: 315px;
 }
 }
 

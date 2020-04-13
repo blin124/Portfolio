@@ -18,3 +18,8 @@ a {
 html {
     height: 100%;
 }
+
+.jumbotron-fluid {
+    margin-top: 63px;
+    padding: 30px 30px;
+}

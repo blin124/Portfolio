@@ -34,7 +34,8 @@ html {
 
 .list-title {
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 750;
+    color: cadetblue;
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
@@ -49,6 +50,12 @@ html {
     display: block!important;
     width: 20% !important;
     margin: auto !important;
+}
+
+.list-group-item-action {
+    width: 100%;
+    color: cadetblue;
+    text-align: inherit;
 }
 
 .list-group-item.active {

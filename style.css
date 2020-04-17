@@ -74,6 +74,10 @@ img {
     height: 20%;
 }
 
+.col-sm-6 {
+    padding-bottom: 70px;
+}
+
 @media (min-width: 576px) {
 #table-list {
     max-width: 20% !important;

@@ -25,6 +25,7 @@ LinkedIn Profile also consists of links to Github and Portfolio sites and truthf
 https://blin124.github.io/Portfolio/html/
 <img src="/images/screenshots-of-html/portfolio-html.png" width="75%" height="50%">
 
+
 * Link to this README file:
 https://blin124.github.io/Portfolio/
 
